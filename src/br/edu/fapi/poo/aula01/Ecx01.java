@@ -9,7 +9,8 @@ public class Ecx01 {
 	
 	System.out.println("Entre como um valor");
 	int numero = scan.nextInt();
-	System.out.println("O valor de entrada pé "+numero);
+	System.out.println("O valor de entrada p "+numero);
+
 	}
 	
 }
