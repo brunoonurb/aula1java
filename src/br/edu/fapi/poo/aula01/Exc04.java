@@ -13,8 +13,8 @@ public class Exc04 {
         for (int i = 0; i <3 ; i++) {
             System.out.println("Entre com "+(i+1)+"º numero");
             numero[i]=ler.nextInt();
-            System.out.println (numero[i] + " numero");
         }
+
         for (int i = 0; i <2 ; i++) {
             for (int j =i+1 ; j <3 ; j++) {
                 if (numero[i] > numero[j]) {
@@ -25,12 +25,11 @@ public class Exc04 {
             }
         }
 
-
-
         System.out.println("-------------------------------");
         System.out.println("Numeros em ordem crescente");
-        for (int aux1 :numero) {
-            System.out.println (aux1 + " numero");
+        int cont=0;
+        for (int aux :numero) {
+            System.out.println (++cont +"º Numero "+aux);
         }
 
 

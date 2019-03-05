@@ -7,10 +7,10 @@ public class Exc03 {
 
         Scanner ler = new Scanner(System.in);
 
-        System.out.println("Entre com um numero que represente um mes de ano .");
+        System.out.println("Entre com um numero de 1 a 12 .");
         int numeroMes =ler.nextInt();
         System.out.println("-----------------------------------");
-        System.out.println("NUMERO  MES");
+        System.out.println("Nº     MES");
          switch (numeroMes){
 
              case 1:
@@ -50,7 +50,7 @@ public class Exc03 {
                  System.out.println(numeroMes  +"      Dezembro");
              break;
              default:
-                 System.out.println("Esse numero nao representa nenhum mes no nosso calendario");
+                 System.out.println("Esse numero não representa nenhum mes no nosso calendario");
                  break;
          }
 

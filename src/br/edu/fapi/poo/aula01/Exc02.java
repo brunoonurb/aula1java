@@ -7,9 +7,9 @@ public class Exc02 {
 
         Scanner ler = new Scanner(System.in);
 
-        System.out.println("Entre como um primeiro numero");
+        System.out.println("Entre como  primeiro numero");
         int numero = ler.nextInt();
-        System.out.println("Entre como um primeiro numero");
+        System.out.println("Entre como segundo numero");
         int numero2 = ler.nextInt();
 
         int nenor;
