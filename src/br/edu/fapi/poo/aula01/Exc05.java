@@ -17,6 +17,7 @@ public class Exc05 {
         System.out.println("  5    | 6x No cartão de credito ");
 
         int opcao=ler.nextInt();
+        System.out.println("-----------------------------------------");
         switch (opcao){
 
             case 1:
@@ -37,6 +38,7 @@ public class Exc05 {
             default:
                 break;
         }
+        System.out.println("-----------------------------------------");
 
 
     }
