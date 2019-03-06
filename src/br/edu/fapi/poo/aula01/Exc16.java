@@ -2,7 +2,7 @@ package br.edu.fapi.poo.aula01;
 
 import java.util.Scanner;
 
-public class Ecx16 {
+public class Exc16 {
     public static void main(String[] args) {
 
         Scanner ler = new Scanner(System.in);
