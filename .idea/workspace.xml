@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54127d3b-9a7d-4c18-ae48-875d61697729" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Ecx16.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,11 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Ecx16.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -101,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc13.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc14.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Ecx16.java" />
       </list>
     </option>
   </component>
@@ -157,7 +166,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551885975209" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551886469456" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -174,9 +183,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exc15">
-    <configuration name="Exc11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.edu.fapi.poo.aula01.Exc11" />
+  <component name="RunManager" selected="Application.Ecx16">
+    <configuration name="Ecx16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.edu.fapi.poo.aula01.Ecx16" />
       <module name="aula1java" />
       <extension name="coverage">
         <pattern>
@@ -242,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ecx16" />
         <item itemvalue="Application.Exc15" />
         <item itemvalue="Application.Exc14" />
         <item itemvalue="Application.Exc13" />
         <item itemvalue="Application.Exc12" />
-        <item itemvalue="Application.Exc11" />
       </list>
     </recent_temporary>
   </component>
@@ -408,8 +417,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Ecx16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
         </state>
       </provider>
     </entry>
