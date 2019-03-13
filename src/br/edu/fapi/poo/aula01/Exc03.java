@@ -10,7 +10,7 @@ public class Exc03 {
 		int numeroMes = ler.nextInt();
 
 		System.out.println("-----------------------------------");
-		System.out.println("NÂº     MES");
+		System.out.println("Nº     MES");
 
 		switch (numeroMes) {
 		case 1:
