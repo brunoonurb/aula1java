@@ -19,7 +19,7 @@ public class Exc03B {
 	
 	private static void validarMes(int numeroMes) {
 		System.out.println("-----------------------------------");
-		System.out.println("Nº     MES");
+		System.out.println("N     MES");
 		
 		switch (numeroMes) {
 		case 1:

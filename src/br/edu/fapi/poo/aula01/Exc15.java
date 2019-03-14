@@ -9,6 +9,7 @@ public class Exc15 {
 		System.out.println("Digite 5 numeros.");
 		System.out.println("------------------------");
 
+
 		int[] numeros = new int[5];
 		for (int i = 0; i < 5; i++) {
 			System.out.println("Digite " + (i + 1) + "º numero.");
