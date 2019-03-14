@@ -19,10 +19,14 @@ public class Exc04B {
 		
 		int[] numero = new int[3];
 		for (int i = 0; i < 3; i++) {
-			System.out.println("Entre com " + (i + 1) + "º numero");
-			numero[i] = ler.nextInt();
+			numero[i]=lerNumero(ler,"Digite " + (i + 1) + "º numero.");
 		}
 		return numero;
+	}
+
+	public static int lerNumero(Scanner ler , String mensagen) {
+		System.out.print(mensagen);
+		return ler.nextInt();
 	}
 
 

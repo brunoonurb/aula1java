@@ -5,28 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54127d3b-9a7d-4c18-ae48-875d61697729" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc17B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc06B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc07B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc08B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc09B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc10B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc11B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc14B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc16B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Ecx01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc17B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc17B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc17C.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula1java/br/edu/fapi/poo/aula01/Exc18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc03B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc03B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc04B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc04B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc05B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc05B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc12B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc12B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc13B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc13B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,55 +35,103 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15.java">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc08B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc09B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc10B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc11B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc13B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc14B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc16B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc17B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc17B.java">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18B.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc17.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -110,7 +155,6 @@
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc02.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc04.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc05.java" />
-        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc06.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc07.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc08.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc09.java" />
@@ -118,17 +162,33 @@
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc11.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc12.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc13.java" />
-        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc14.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Ecx16.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc16.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc17.java" />
-        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc01.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc17B.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc03.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc03B.java" />
         <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc17C.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc16B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc14B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc14.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc13B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc12C.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc12B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc11B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc09B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc10B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc08B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc07B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc06.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc06B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc05B.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc04B.java" />
       </list>
     </option>
   </component>
@@ -185,7 +245,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552535057713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552537716143" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -208,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exc17B">
+  <component name="RunManager" selected="Application.Exc18">
     <configuration name="Exc03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.edu.fapi.poo.aula01.Exc03" />
       <module name="aula1java" />
@@ -276,10 +336,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exc18" />
         <item itemvalue="Application.Exc17B" />
         <item itemvalue="Application.Exc17B" />
         <item itemvalue="Application.Exc03" />
-        <item itemvalue="Application.Exc18" />
         <item itemvalue="Application.Exc17" />
       </list>
     </recent_temporary>
@@ -307,10 +367,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="513" y="58" width="340" height="611" id="Project" order="0" visible="true" weight="0.2647504" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" x="513" y="58" width="340" height="611" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2647504" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.2647504" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -356,20 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -399,13 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -413,31 +451,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc05B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -455,24 +472,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc17.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
           <caret line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc03B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -490,10 +493,187 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc12B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" lean-forward="true" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc05B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc04B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc03B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc02B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc06B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc07B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc08B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc09B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc10B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc11B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc12B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc13B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc14B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc15B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc16B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc17B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/fapi/poo/aula01/Exc18B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>

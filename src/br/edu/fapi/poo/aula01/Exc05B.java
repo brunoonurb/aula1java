@@ -8,6 +8,25 @@ public class Exc05B {
 
 		int opcao = lerOpcao(ler);
 
+		saidaDeDados(opcao);
+
+		System.out.println("-----------------------------------------");
+	}
+
+	private static int lerOpcao(Scanner ler) {
+		System.out.println("-----------------------------------------");
+		System.out.println("CODIGO |       OPÇAO     ");
+		System.out.println("-----------------------------------------");
+		System.out.println("  1    | Venda a Vista no dinheiro ");
+		System.out.println("  2    | Venda a Vista no debito");
+		System.out.println("  3    | 1x No no cartão de credito ");
+		System.out.println("  4    | 3x Vezes com juros no cartão de creditos ");
+		System.out.println("  5    | 6x No cartão de credito ");
+
+		return ler.nextInt();
+	}
+
+	public static void saidaDeDados(int opcao) {
 		System.out.println("-----------------------------------------");
 
 		switch (opcao) {
@@ -29,20 +48,5 @@ public class Exc05B {
 		default:
 			break;
 		}
-
-		System.out.println("-----------------------------------------");
-	}
-
-	private static int lerOpcao(Scanner ler) {
-		System.out.println("-----------------------------------------");
-		System.out.println("CODIGO |       OPÇAO     ");
-		System.out.println("-----------------------------------------");
-		System.out.println("  1    | Venda a Vista no dinheiro ");
-		System.out.println("  2    | Venda a Vista no debito");
-		System.out.println("  3    | 1x No no cartão de credito ");
-		System.out.println("  4    | 3x Vezes com juros no cartão de creditos ");
-		System.out.println("  5    | 6x No cartão de credito ");
-
-		return ler.nextInt();
 	}
 }
