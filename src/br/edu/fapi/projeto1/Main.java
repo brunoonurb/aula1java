@@ -17,7 +17,7 @@ public class Main {
 		aluno.idade = scan.nextInt();
 		
 		System.out.println("Entre com sua matricula");
-		aluno.matricula = scan.nextLine();
+		aluno.setMatricula(scan.nextLine());
 		
 		System.out.println("Entre com sua primera nota");
 		aluno.nota1=scan.nextDouble();

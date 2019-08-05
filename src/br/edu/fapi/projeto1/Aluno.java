@@ -33,7 +33,16 @@ public class Aluno {
 		this.matricula = matricula;
 	}
 
-	v
+	public double mediaAluno(double nota1 , double nota2) {
+		System.out.println(" Sua media é");
+		
+	return nota1 + nota2 / 2;	
+	}
+	
+	public void falarNome (String nome) {
+		System.out.println("meu nome é " + nome);
+	}
+	
 	
 	
 	
